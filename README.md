@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi, I'm Rameel Malik
 
-<!--
-**hir0-pixel/hir0-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering student at NUST Pakistan, specializing in GPU acceleration and real-time graphics optimization.
 
-Here are some ideas to get you started:
+**Current Research**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm working on GPU memory optimization for medical imaging applications. My work focuses on enabling real-time 3D visualization of DICOM data through:
+- Dynamic VRAM allocation control using CUDA-OpenGL interop
+- Adaptive texel density management for performance optimization
+- Mesh and shader optimization for volumetric reconstruction
+
+This research builds on my earlier texel density balancing work, which earned regional finalist recognition at the Zindigi Prize 2024.
+
+**Technical Focus**
+
+Graphics & GPU: `CUDA` `OpenGL` `Real-time Rendering` `Shader Programming`  
+Medical Imaging: `DICOM Processing` `Volume Reconstruction` `3D Visualization`  
+Tools: `C++` `Python` `Unity 3D` `Blender`
+
+**What I'm Exploring**
+
+Making computationally expensive 3D graphics and medical visualization accessible on resource-constrained hardware. My final year project demonstrates stable rendering at 30% VRAM usage with sub-millisecond allocation overhead.
+
+**Currently**
+
+Completing my undergraduate thesis on GPU-accelerated medical visualization and preparing applications for Fall 2026 Master's programs in computer graphics and GPU systems.
+
+[LinkedIn](https://linkedin.com/in/rameelmalik) · [GitHub Projects](https://github.com/hir0-pixel/Texel-Density-Balancer-Prototype) · h.rameelmalik@outlook.com
