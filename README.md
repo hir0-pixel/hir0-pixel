@@ -9,8 +9,6 @@ I'm working on GPU memory optimization for medical imaging applications. My work
 - Adaptive texel density management for performance optimization
 - Mesh and shader optimization for volumetric reconstruction
 
-This research builds on my earlier texel density balancing work, which earned regional finalist recognition at the Zindigi Prize 2024.
-
 **Technical Focus**
 
 Graphics & GPU: `CUDA` `OpenGL` `Real-time Rendering` `Shader Programming`  
@@ -25,4 +23,4 @@ Making computationally expensive 3D graphics and medical visualization accessibl
 
 Completing my undergraduate thesis on GPU-accelerated medical visualization and preparing applications for Fall 2026 Master's programs in computer graphics and GPU systems.
 
-[LinkedIn](https://linkedin.com/in/rameelmalik) · [GitHub Projects](https://github.com/hir0-pixel/Texel-Density-Balancer-Prototype) · h.rameelmalik@outlook.com
+[LinkedIn](https://linkedin.com/in/rameelmalik) · [GitHub Project](https://github.com/hir0-pixel/Texel-Density-Balancer-Prototype) · h.rameelmalik@outlook.com
