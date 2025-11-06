@@ -23,4 +23,4 @@ Making computationally expensive 3D graphics and medical visualization accessibl
 
 Completing my undergraduate thesis on GPU-accelerated medical visualization and preparing applications for Fall 2026 Master's programs in computer graphics and GPU systems.
 
-[LinkedIn](https://linkedin.com/in/rameelmalik) · [GitHub Project](https://github.com/hir0-pixel/Texel-Density-Balancer-Prototype) · h.rameelmalik@outlook.com
+[LinkedIn](https://linkedin.com/in/rameelmalik) · h.rameelmalik@outlook.com
