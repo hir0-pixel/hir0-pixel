@@ -21,8 +21,11 @@ Co-authored "Beyond Detection: End-to-End Lung Cancer Screening with Hardware-Ac
 ## Stack
 
 **Graphics & GPU** — CUDA, Vulkan, OpenGL, Real-time Rendering, Shader Programming
+
 **AI / ML** — PyTorch, LLM Inference Optimization, Transformer Architectures, Faster R-CNN, EfficientNet
+
 **Medical Imaging** — DICOM Processing, Volume Reconstruction, 3D Visualization
+
 **Tools** — C++, Python, Rust, Unity 3D, Blender
 
 
