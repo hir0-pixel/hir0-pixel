@@ -23,7 +23,7 @@
   - A 74M-parameter model with a custom Rust/CUDA decode path.
   - Decode-gather delivered a 25.91% mean gain over the Triton baseline on NVIDIA H100s.
 - **Lung cancer screening · Research**
-  - Co-authored [“Beyond Detection: End-to-End Lung Cancer Screening with Hardware-Accelerated 3-D Reconstruction”](https://www.sciencedirect.com/), a preprint submitted to Elsevier.
+  - Co-authored “Beyond Detection: End-to-End Lung Cancer Screening with Hardware-Accelerated 3-D Reconstruction,” a preprint submitted to Elsevier.
   - Built a unified DICOM-to-mesh pipeline with **95.43% tumour-detection accuracy** and **99.79% four-class subtype accuracy**.
   - GPU reconstruction stays within a **5 GB memory budget** and supports meshes above **10 million vertices** on consumer GPUs.
 
