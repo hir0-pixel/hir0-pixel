@@ -11,7 +11,7 @@
 - **Refactr**
   - Developing **Epsilon**, a multi-engine LLM inference platform for faster, lower-cost serving on private GPU deployments.
   - Building a **3-D asset format** for compact static geometry, with benchmark-leading results.
-- **Linq at Avtive**
+- **[Linq at Avtive](https://linq.avtive.app)**
   - Backend engineer on a networking and campaign management platform for referral marketing.
 
 ## Selected work
