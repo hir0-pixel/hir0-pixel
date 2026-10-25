@@ -1,39 +1,25 @@
-### Hi, I'm Rameel Malik
+# Rameel Malik
 
-Computer Engineering graduate from NUST, Islamabad, and founder of [Refactr](https://www.refactr.net), a GPU infrastructure company making AI inference and 3-D rendering faster, cheaper, and deployable on-premises.
+Computer Engineering graduate from NUST, Islamabad. I’m the founder of [Refactr](https://www.refactr.net), where I build GPU infrastructure for faster, lower-cost AI inference and 3-D workloads on consumer hardware and private deployments.
 
+## Current work
 
+- **Refactr** — Building Epsilon, a multi-engine LLM inference platform, and a 3-D asset format for efficient static geometry.
+- **Linq at Avtive** — Backend engineering for a networking and referral campaign management platform.
 
-## Current Work
+## Selected work
 
-Building Refactr's GPU stack: a 3D asset format that leads published benchmarks for static geometry, and an AI inference stack focused on faster, cheaper LLM serving on consumer-grade hardware.
+- **Haytham** — A 74M-parameter long-context Transformer with a Rust/CUDA decode path. The decode-gather implementation achieved a 25.91% mean gain over the Triton baseline on NVIDIA H100s.
+- **Lung cancer screening research** — Co-authored “Beyond Detection: End-to-End Lung Cancer Screening with Hardware-Accelerated 3-D Reconstruction,” a preprint submitted to Elsevier. The DICOM-to-mesh pipeline combines tumour detection and subtype classification with GPU reconstruction under a 5 GB device-memory budget, supporting meshes above 10 million vertices on consumer GPUs.
+- **Factr-I** — A desktop AI agent designed to work with local files, edit code, and complete multi-step tasks.
 
-Backend engineer on [Linq](https://linq.avtive.app), a networking and campaign management platform for referral marketing.
+## Technical areas
 
+**GPU & graphics:** CUDA, Vulkan, OpenGL, real-time rendering, shader programming  
+**AI & ML:** PyTorch, LLM inference, Transformer architectures, Faster R-CNN, EfficientNet  
+**Medical imaging:** DICOM, volume reconstruction, 3-D visualization  
+**Languages & tools:** C++, Python, Rust, Unity, Blender
 
+I’m interested in making demanding GPU workloads, medical visualization, 3-D rendering, and LLM inference practical on resource-constrained hardware.
 
-## Research
-
-Co-authored "Beyond Detection: End-to-End Lung Cancer Screening with Hardware-Accelerated 3-D Reconstruction" (preprint, Elsevier). A unified DICOM-to-mesh pipeline combining tumour detection and subtype classification (95.43% binary accuracy, 99.79% four-class accuracy) with a GPU volumetric reconstruction stage that runs within a 5GB memory budget, enabling 10M+ vertex medical mesh reconstruction on consumer GPUs instead of 24GB+ workstation cards.
-
-
-
-## Stack
-
-**Graphics & GPU** — CUDA, Vulkan, OpenGL, Real-time Rendering, Shader Programming
-
-**AI / ML** — PyTorch, LLM Inference Optimization, Transformer Architectures, Faster R-CNN, EfficientNet
-
-**Medical Imaging** — DICOM Processing, Volume Reconstruction, 3D Visualization
-
-**Tools** — C++, Python, Rust, Unity 3D, Blender
-
-
-
-## What I'm Exploring
-
-Making computationally expensive GPU workloads, medical visualization, 3D rendering, and LLM inference, accessible on resource-constrained hardware, without needing high-VRAM data-center GPUs.
-
-
-
-[LinkedIn](https://linkedin.com/in/rameelmalik) · [Refactr](https://www.refactr.net) · rameel.malik@outlook.com
+[LinkedIn](https://linkedin.com/in/rameelmalik) · [Refactr](https://www.refactr.net) · [Email](mailto:rameel.malik@outlook.com)
